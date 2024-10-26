@@ -8,4 +8,4 @@ Hopefully, this new structure will help improve our project management and make 
 
 <p>Given these challenges, we hope you might consider allowing additional time to complete the project. Game development is inherently a lengthy process, and we are committed to delivering the game.</p>
 
-<p>Thank you for your understanding...</p>
+<p>Thank you for your understanding.</p>
